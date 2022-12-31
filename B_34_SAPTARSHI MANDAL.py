@@ -1,7 +1,5 @@
 import os
 import csv
-import subprocess
-import time
 import sys
 try:
     import matplotlib.pyplot as plt
