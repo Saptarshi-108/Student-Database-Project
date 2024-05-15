@@ -3,7 +3,7 @@
 ## Description
 This project is a simple student database management system developed in Python. It uses CSV files to store student data and provides functionalities to add, update, delete, and view student records. Additionally, it features data visualization capabilities using the matplotlib library to plot graphs based on student data.
 
-<p align="center"><img src="https://repository-images.githubusercontent.com/686352888/cbe5fb52-0a43-4ac4-a8cc-1a2f5083ffd6"></p>
+<p align="center"><img src="https://repository-images.githubusercontent.com/686352888/cbe5fb52-0a43-4ac4-a8cc-1a2f5083ffd6" width=500 height=500></p>
 
 ## Features
 - **Add New Records**: Insert new student data into the database.
